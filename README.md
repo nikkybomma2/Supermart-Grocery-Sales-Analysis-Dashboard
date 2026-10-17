@@ -41,7 +41,7 @@ The dashboard presents key performance indicators and visualizations to help sta
 - `data/` — Source dataset, if shareable.
 - `documentation/` — Additional project documentation.
 ## Dashboard Preview
-![Supermart Grocery Sales Dashboard](screenshots/Supermart_Grocery_Dashboard.png)
+![Supermart Grocery Sales Dashboard](Supermart_Grocery_Dashboard.png)
 ## Conclusion
 This project demonstrates Excel-based data analysis, KPI reporting, interactive filtering, and business performance visualization.
 ## Author
